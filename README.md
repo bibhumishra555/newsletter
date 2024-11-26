@@ -84,7 +84,8 @@ Each category includes a set of curated links, presented in a dynamic and user-f
 
 ## Screenshots
 ### 🎥 Preview
-![Webpage Preview](#) *(Add a screenshot of the webpage)*
+![Webpage Preview](#) *![image](https://github.com/user-attachments/assets/f5a416ce-4420-436b-8454-82c140c60674)
+*
 
 ---
 
@@ -101,9 +102,8 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 ---
 
 ## Credits
-- Developed by **[Your Name]**.
+- Developed by **Syntac_Savvy_**.
 - Inspired by the desire to create an aesthetically pleasing and functional resource hub.
 
 ---
 
-This `README.md` will help others understand and use your project while showcasing its features and potential enhancements. Let me know if you'd like to add more details, sweet 💞 heart! 😊
