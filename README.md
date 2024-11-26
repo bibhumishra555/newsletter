@@ -3,7 +3,7 @@
 # Syntax Savvy: Resource Classification and Animation Webpage
 
 ## Overview
-**Newsletter\** is a visually appealing and interactive webpage designed to present categorized resources with smooth animations. This project demonstrates the use of **HTML**, **CSS**, and **JavaScript** to create a structured and responsive user interface.
+**Newsletter** is a visually appealing and interactive webpage designed to present categorized resources with smooth animations. This project demonstrates the use of **HTML**, **CSS**, and **JavaScript** to create a structured and responsive user interface.
 
 The webpage organizes resources into three main categories:
 - **International**
