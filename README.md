@@ -1,11 +1,9 @@
-Here’s an attractive and comprehensive `README.md` for your project:
-
 ---
 
 # Syntax Savvy: Resource Classification and Animation Webpage
 
 ## Overview
-**Syntax Savvy** is a visually appealing and interactive webpage designed to present categorized resources with smooth animations. This project demonstrates the use of **HTML**, **CSS**, and **JavaScript** to create a structured and responsive user interface.
+**Newsletter\** is a visually appealing and interactive webpage designed to present categorized resources with smooth animations. This project demonstrates the use of **HTML**, **CSS**, and **JavaScript** to create a structured and responsive user interface.
 
 The webpage organizes resources into three main categories:
 - **International**
@@ -76,7 +74,6 @@ Each category includes a set of curated links, presented in a dynamic and user-f
 ---
 
 ## Future Enhancements
-- Add search functionality to filter resources by name or category.
 - Include more categories such as *Technology*, *Education*, and *Health*.
 - Allow users to submit their favorite links.
 
