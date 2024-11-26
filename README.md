@@ -55,7 +55,7 @@ Each category includes a set of curated links, presented in a dynamic and user-f
 
 ## How to Use
 ### 🌐 **Live Preview**
-1. Open the `index.html` file in your browser.
+1. Open the `index.html` or https://bibhumishra555.github.io/newsletter/ file in your browser.
 2. The page will load categorized resources with animations.
 
 ### 🛠️ **Customization**
@@ -97,7 +97,7 @@ Each category includes a set of curated links, presented in a dynamic and user-f
 ---
 
 ## License
-This project is licensed under the **MIT License**. Feel free to use and modify it for personal or educational purposes.
+This project is licensed under the **Apache License 2.0**. Feel free to use and modify it for personal or educational purposes.
 
 ---
 
